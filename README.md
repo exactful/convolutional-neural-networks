@@ -6,7 +6,7 @@ Classifying the CIFAR-10 dataset.
 
 ![Labels and predictions](images/results/cifar-predictions.png)
 
-![Loss and accuracy](cifar-loss-and-accuracy.png)
+![Loss and accuracy](images/results/cifar-loss-and-accuracy.png)
 
 ## MNIST Digits
 
