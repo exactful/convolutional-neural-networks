@@ -4,7 +4,7 @@
 
 Classifying the CIFAR-10 dataset.
 
-![Labels and predictions](cifar-predictions.png)
+![Labels and predictions](images/results/cifar-predictions.png)
 
 ![Loss and accuracy](cifar-loss-and-accuracy.png)
 
@@ -12,10 +12,10 @@ Classifying the CIFAR-10 dataset.
 
 Classifying the MNIST Digits dataset.
 
-![Labels and predictions](digits-mnist-predictions.png)
+![Labels and predictions](images/results/digits-mnist-predictions.png)
 
 ## MNIST Fashion
 
 Classifying the MNIST Fashion dataset.
 
-![Labels and predictions](fashion-mnist-predictions.png)
+![Labels and predictions](images/results/fashion-mnist-predictions.png)
